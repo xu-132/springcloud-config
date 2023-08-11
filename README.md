@@ -1,0 +1,2 @@
+# springcloud-config
+用于实现SpringCloud config分布式配置中心通过Github获取配置信息
